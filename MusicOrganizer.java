@@ -72,4 +72,6 @@ public class MusicOrganizer
             return files.get(index);
         } return null;
     }
+    public void listAllFiles(){
+}
 }
